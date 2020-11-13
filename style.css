@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    margin: 0;
+    text-align: center;
+    color: white;
+    box-shadow: 5px 10px 10px burlywood;
+    width: 100%;
+    font-size: 25px;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 10px 10px black;
+}
+
+#copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    background-color:grey;
+    color: white;
+    text-align: center;
+    width: 100%;
+    
+}
